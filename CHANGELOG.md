@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`b68b283`](https://github.com/stdlib-js/stdlib/commit/b68b28358b19ba7e4d23d9a87acfb283c3c0ea3d) - add specialized support for complex number and boolean arrays
 -   [`c7f571e`](https://github.com/stdlib-js/stdlib/commit/c7f571ef00c124a120847f0c8fa59053c7c27dba) - add `array/base/index-of-same-value`
 
 </section>
@@ -22,6 +23,8 @@
 
 <details>
 
+-   [`c7f060f`](https://github.com/stdlib-js/stdlib/commit/c7f060f6549d45a4c7faa06b25ff55a882ee6299) - **test:** add test cases _(by Athan Reines)_
+-   [`b68b283`](https://github.com/stdlib-js/stdlib/commit/b68b28358b19ba7e4d23d9a87acfb283c3c0ea3d) - **feat:** add specialized support for complex number and boolean arrays _(by Athan Reines)_
 -   [`c7f571e`](https://github.com/stdlib-js/stdlib/commit/c7f571ef00c124a120847f0c8fa59053c7c27dba) - **feat:** add `array/base/index-of-same-value` _(by Athan Reines)_
 
 </details>
