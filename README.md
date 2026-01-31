@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@esm/index.mjs';
+import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@v0.1.0-esm/index.mjs';
 ```
 
 #### indexOfSameValue( x, searchElement, fromIndex )
@@ -124,7 +124,7 @@ var idx = indexOfSameValue( x, 2, -4 );
 <body>
 <script type="module">
 
-import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@esm/index.mjs';
+import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@v0.1.0-esm/index.mjs';
 
 var x = [ 'foo', 'bar', 'beep', 'boop', 'foo', 'bar' ];
 
