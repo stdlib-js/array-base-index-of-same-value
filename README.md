@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@deno/mod.js';
+import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@v0.1.0-deno/mod.js';
 ```
 
 #### indexOfSameValue( x, searchElement, fromIndex )
@@ -119,7 +119,7 @@ var idx = indexOfSameValue( x, 2, -4 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@deno/mod.js';
+import indexOfSameValue from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-index-of-same-value@v0.1.0-deno/mod.js';
 
 var x = [ 'foo', 'bar', 'beep', 'boop', 'foo', 'bar' ];
 
